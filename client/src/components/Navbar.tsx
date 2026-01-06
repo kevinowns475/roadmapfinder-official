@@ -1,7 +1,7 @@
 import { Link } from "wouter";
 import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
-import logo from "@assets/Screenshot_(82)_1767703844656.png";
+import logo from "@assets/logo.png";
 
 export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -35,7 +35,7 @@ export function Navbar() {
       <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-3 group">
           <div className="relative w-10 h-10 overflow-hidden rounded-lg bg-white/5 p-1 border border-white/10 group-hover:border-primary/50 transition-colors">
-            <img src={logo} alt="Roadmapfinder Logo" className="w-full h-full object-contain" />
+           
           </div>
           <span className="font-bold text-xl tracking-tight text-white group-hover:text-primary transition-colors">
             Roadmapfinder
