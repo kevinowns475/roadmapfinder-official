@@ -1,7 +1,7 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
 import { Check, Lock, ChevronRight, User, Terminal, Code2 } from "lucide-react";
-import logo from "@assets/Screenshot_(82)_1767703844656.png";
+import logo from "@assets/logo.png";
 
 export function Emulator() {
   const [screenIndex, setScreenIndex] = useState(0);
