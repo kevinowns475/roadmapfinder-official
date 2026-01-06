@@ -1,0 +1,169 @@
+1️⃣ TIGHTENED HERO HEADLINE (HIGH-CONVERSION, NO FLUFF)
+
+Your current idea is decent but too safe. We need clarity + outcome.
+
+Final Hero Headline (Primary – use this)
+
+“Learn Tech Skills With Clear Roadmaps — Not Guesswork.”
+
+Supporting Subheadline
+
+“Roadmapfinder gives you structured learning paths, best resources, and an AI-powered app that keeps you consistent until you actually finish.”
+
+Why this works:
+
+Calls out the pain: guesswork
+
+Promises outcome: finish
+
+Simple language → Indian audience friendly
+
+No buzzwords
+
+Alternative (A/B test later)
+
+“Stop Jumping Between Tutorials. Follow a Real Learning Roadmap.”
+
+Use this if you want slightly more aggressive tone.
+
+CTA Copy (Very Important)
+
+Primary (filled button): Install the App
+
+Secondary (outline button): Continue on Web (Free)
+
+Do NOT reverse this. App is money.
+
+2️⃣ PRICING PSYCHOLOGY (INDIA-OPTIMIZED, TRUST-FIRST)
+
+This is where most founders mess up. Don’t.
+
+Pricing Page Structure
+Headline
+
+Simple Pricing. Serious Progress.
+
+Subtext
+
+“No fake tiers. No feature confusion. One plan that actually helps you learn.”
+
+Recommended Pricing Model
+Monthly
+
+₹199 / month
+
+Yearly (Default Highlight)
+
+₹1,499 / year
+(₹125/month — save 37%)
+
+Why this works in India:
+
+₹199 feels impulse-buy safe
+
+₹1,499 feels “investment but affordable”
+
+Monthly anchors yearly as better value
+
+What You MUST Highlight (Bullets)
+
+Include check icons, short text only:
+
+AI-personalized learning roadmaps
+
+Assignments with proof submission
+
+AI mentor for doubts & clarity
+
+Progress tracking, XP & consistency
+
+New roadmaps added regularly
+
+Trust Section (Critical)
+
+Add this below pricing:
+
+“Web version is always free.”
+“You only pay for personalization, tracking, and AI guidance inside the app.”
+
+This removes fear.
+
+CTA Under Pricing
+
+Start Learning Smarter → Install the App
+
+No “Buy now”. Sounds scammy. Avoid it.
+
+3️⃣ EXACT MOBILE EMULATOR SCREEN FLOW (RIGHT SIDE HERO)
+
+This is what the emulator should show. Not random screens.
+
+Emulator Animation Flow (3-step loop)
+Screen 1 – App Launch
+
+Dark navy background
+
+Roadmapfinder logo
+
+Tagline:
+“Clear Roadmaps. Real Progress.”
+
+(0.8s fade)
+
+Screen 2 – AI Roadmap Setup
+
+Show a simple screen:
+
+“What do you want to learn?” → Web Development
+
+“Your level?” → Beginner
+
+“Time per day?” → 1 hour
+
+This visually explains personalization without text.
+
+Screen 3 – Generated Roadmap View
+
+Show:
+
+Phase 1: HTML & CSS ✅
+
+Phase 2: JavaScript 🔒
+
+XP bar + progress %
+
+This instantly communicates:
+
+Structure
+
+Progress
+
+System (your moat)
+
+Loop back smoothly to Screen 1.
+
+Emulator Design Rules
+
+NO purple
+
+Colors:
+
+Background: deep navy / near-black
+
+Accents: blue / cyan
+
+Rounded phone frame
+
+Subtle shadow
+
+No flashy animations
+
+Premium > flashy.
+
+FINAL DESIGN CONSTRAINT (IMPORTANT)
+
+❌ No purple
+❌ No gradient rainbow
+❌ No marketing buzzwords
+✅ Navy + blue only
+✅ Clarity over cleverness
