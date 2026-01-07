@@ -1,8 +1,10 @@
-
 import React, { useState } from 'react';
-import { Link, useLocation } from 'react-router-dom';
+// Fix: Using namespace import for react-router-dom to resolve "no exported member" errors in some environments
+import * as ReactRouterDOM from 'react-router-dom';
 import { Menu, X } from 'lucide-react';
 import Logo from './Logo';
+
+const { Link, useLocation } = ReactRouterDOM;
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);

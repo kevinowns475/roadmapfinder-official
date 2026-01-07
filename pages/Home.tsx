@@ -1,6 +1,6 @@
-
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+// Fix: Using namespace import for react-router-dom to resolve "no exported member" errors
+import * as ReactRouterDOM from 'react-router-dom';
 import { 
   ArrowRight, 
   Search, 
@@ -18,6 +18,8 @@ import {
   Quote
 } from 'lucide-react';
 import Emulator from '../components/Emulator';
+
+const { Link } = ReactRouterDOM;
 
 const Home: React.FC = () => {
   const [openFaq, setOpenFaq] = useState<number | null>(0);

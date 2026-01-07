@@ -16,7 +16,7 @@ const Logo: React.FC<LogoProps> = ({ className = "", size = 32, showText = false
         viewBox="0 0 200 200"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
-        className="drop-shadow-[0_4px_6px_rgba(0,123,255,0.2)]"
+        className="drop-shadow-[0_4px_12px_rgba(0,123,255,0.3)]"
       >
         {/* The Outer Pin Shape - Vibrant Blue */}
         <path
@@ -31,9 +31,9 @@ const Logo: React.FC<LogoProps> = ({ className = "", size = 32, showText = false
         />
         
         {/* Road Markings / Stripes */}
-        <rect x="97" y="50" width="6" height="15" rx="3" fill="white" opacity="0.8" />
-        <rect x="97" y="85" width="6" height="15" rx="3" fill="white" opacity="0.8" />
-        <rect x="97" y="120" width="6" height="15" rx="3" fill="white" opacity="0.8" />
+        <rect x="97" y="50" width="6" height="15" rx="3" fill="white" opacity="0.9" />
+        <rect x="97" y="85" width="6" height="15" rx="3" fill="white" opacity="0.9" />
+        <rect x="97" y="120" width="6" height="15" rx="3" fill="white" opacity="0.9" />
         
         {/* Flag Pole - Darker Navy */}
         <rect x="95" y="0" width="6" height="40" rx="3" fill="#003566" />
@@ -45,7 +45,7 @@ const Logo: React.FC<LogoProps> = ({ className = "", size = 32, showText = false
         />
       </svg>
       {showText && (
-        <span className="text-2xl font-black tracking-tighter text-white dark:text-white font-montserrat flex items-center">
+        <span className="text-2xl font-black tracking-tighter text-white font-montserrat flex items-center">
           Roadmap<span className="text-[#007BFF]">Finder</span>
         </span>
       )}

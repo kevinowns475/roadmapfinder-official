@@ -1,8 +1,10 @@
-
 import React from 'react';
-import { Link } from 'react-router-dom';
+// Fix: Using namespace import for react-router-dom to resolve "no exported member" errors
+import * as ReactRouterDOM from 'react-router-dom';
 import { Twitter, Github, Linkedin, Mail } from 'lucide-react';
 import Logo from './Logo';
+
+const { Link } = ReactRouterDOM;
 
 const Footer: React.FC = () => {
   return (
